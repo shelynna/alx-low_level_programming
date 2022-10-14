@@ -1,10 +1,8 @@
-Vi 101-quote.c
-#include <stdio.h>
 #include <unistd.h>
 /**
- *main- this is the program start
+ *main-program entry point.
  *
- *Return: the value one returns on success.
+ *Return: 1 on success.
  */
 int main(void)
 {
